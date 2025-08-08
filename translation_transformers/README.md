@@ -26,9 +26,7 @@ This project implements a sequence-to-sequence Transformer model from scratch in
 
 ---
 
-## Getting Started
-
-### Requirements
+## Requirements
 
 - Python 3.7+
 - PyTorch
@@ -38,5 +36,9 @@ This project implements a sequence-to-sequence Transformer model from scratch in
 - tqdm
 
 Or just copy paste the 'Importing Required Libraries' section from the notebook above.
+
+## Inference Process
+<img width="1357" height="1583" alt="transformer inference process" src="https://github.com/user-attachments/assets/2c52e4bb-905b-4b8a-82e8-2643ec67d5e1" />
+
 
 
