@@ -14,7 +14,7 @@ A Gradio-based Question-Answering (QA) application that leverages **IBM Watsonx 
 
 ## Installation
 
-Install the required packages:
+Install the required packages :
 
 ```bash
 pip install ibm-watsonx-ai langchain langchain-community gradio chromadb PyPDF2
